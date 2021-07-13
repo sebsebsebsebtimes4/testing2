@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T12:31:40.629Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="XwX57ZoKXaZfuGxwHPe2" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T12:39:15.091Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="EYjcHywa1xlSI_R6hA-d" version="14.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,8 +52,11 @@
             <mxPoint x="590" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IHKnBKSjBb2VfR7VYK6S-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="20" width="120" height="140" as="geometry" />
+        <mxCell id="IHKnBKSjBb2VfR7VYK6S-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.364;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IHKnBKSjBb2VfR7VYK6S-18" target="IHKnBKSjBb2VfR7VYK6S-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHKnBKSjBb2VfR7VYK6S-18" value="AIR Costs&lt;br&gt;AIR Costs inland&lt;br&gt;AIR Costs Surcharge&lt;br&gt;SEA_AIR Costs&lt;br&gt;SEA_AIR Costs Surcharge&lt;br&gt;SEA Costs&lt;br&gt;SEA Costs inland&lt;br&gt;Truck Costs&lt;br&gt;Rail Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="10" width="120" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
