@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T15:31:12.960Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="eQ6e7xo_xQ0ATeU0ylTM" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T10:07:58.315Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="LQarIC-6xSTmx7oKUJPE" version="14.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1157" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -72,26 +72,26 @@
         <mxCell id="IHKnBKSjBb2VfR7VYK6S-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IHKnBKSjBb2VfR7VYK6S-24" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IHKnBKSjBb2VfR7VYK6S-24" value="&lt;ol&gt;&lt;li&gt;Meeting with Sandra to understand Costing Transaction in AFS&lt;/li&gt;&lt;li&gt;&amp;nbsp;PowerApp transformation.&lt;/li&gt;&lt;li&gt;Modified Sheet&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IHKnBKSjBb2VfR7VYK6S-24" value="&lt;ol&gt;&lt;li&gt;Meeting with Sandra to understand Costing Transaction in AFS - &lt;b&gt;style master cockpit&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;PowerApp transformation.&lt;/li&gt;&lt;li&gt;Modified Sheet&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="270" width="170" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="IHKnBKSjBb2VfR7VYK6S-27" value="Modified Sheet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IHKnBKSjBb2VfR7VYK6S-28" value="PowerApp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="525" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IHKnBKSjBb2VfR7VYK6S-37" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="450" as="sourcePoint" />
-            <mxPoint x="320" y="520" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="IHKnBKSjBb2VfR7VYK6S-39" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414" y="450" as="sourcePoint" />
             <mxPoint x="470" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IHKnBKSjBb2VfR7VYK6S-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="IHKnBKSjBb2VfR7VYK6S-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="85" as="targetPoint" />
+            <mxPoint x="120" y="85" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHKnBKSjBb2VfR7VYK6S-42" value="Marc`s input Freight cost. Due to the unstable market, it is necessary to regularly update the cost&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="50" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
