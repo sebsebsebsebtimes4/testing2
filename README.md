@@ -20,4 +20,5 @@ Esprit
 - SAP(PE2/PE5/Analyzr). 
 - Python.
 
+![PANDA](panda.jpg)
 
