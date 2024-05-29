@@ -1,7 +1,5 @@
 # Data Scientist
 
-![panda](panda.jpg)
-
 ### Education
 PHD
 
@@ -20,5 +18,5 @@ Esprit
 - SAP(PE2/PE5/Analyzr). 
 - Python.
 
-![PANDA](panda.jpg)
+![PANDA](/img/panda.jpg)
 
