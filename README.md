@@ -18,4 +18,4 @@ Esprit
 - SAP(PE2/PE5/Analyzr). 
 - Python.
 
-![What I look like](/img/panda.jpeg)
+![What I look like](/img/panda.jpg)
