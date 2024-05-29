@@ -1,6 +1,6 @@
 # Data Scientist
 
-![panda](https://github.com/sebsebsebsebtimes4/testing2/assets/65066441/f78143d2-16c7-4a7f-a83e-30d16da9c49f)
+![panda](panda.jpg)
 
 ### Education
 PHD
